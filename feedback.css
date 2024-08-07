@@ -1,0 +1,119 @@
+.head-logo{
+    width: 165px;
+}
+.nav-item{
+    font-size: 2rem;
+}
+.navbar{
+    padding: 15px;
+}
+.franchise-but{
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    border-radius:  30px;
+    padding: 17px 15px;
+}
+.online-but{
+    background-color: #ff0000;
+    color: #ffffff;
+    border: 0px;
+    border-radius: 30px;
+    padding: 17px 15px;
+    cursor: pointer;
+}
+.arrow-but{
+    background-color: #ffffff;
+    color: #ff0000;
+    padding: 6px;
+    margin: 6px;
+    border-radius: 30px;
+}
+.feed-banner {
+    background: url(../assests/feedback\ banner\ pic.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px 100px;
+    color: #fff;
+    text-align: center;
+}
+
+.feed-banner p {
+    font-size: 30px;
+    margin: 0;
+}
+
+.feed-banner h1{
+    font-size: 80px;
+    font-weight: 900;
+    margin: 0;
+}
+
+.contact-column {
+    display: flex;
+    gap: 40px;
+    background-color: #000;
+    color: #fff;
+    padding: 50px 100px;
+}
+
+.form {
+    width: 50%;
+    border-right: 1px dotted #ffff;
+}
+
+.map {
+    width: 50%;
+}
+
+.star-column {
+    display: flex;
+    gap: 5px;
+}
+
+.star-column p i{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 50px;
+    border: 1px solid #fff;
+    cursor: pointer;
+}
+
+.star-col {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.form {
+    padding-right: 20px;
+}
+
+.field-2{
+    display: flex;
+    gap: 10px;
+}
+
+form input , form select , form textarea {
+    width: 100%;
+    margin-bottom: 30px;
+    padding: 10px;
+    border: 0;
+    outline: none;
+    border-radius: 5px;
+}
+
+.map {
+    text-align: center;
+}
+
+.map h1{
+    font-weight: 900;
+}
+
+form button{
+    background-color: #ed1c24;
+    color: #fff;
+    padding: 12px 20px;
+    border: 0;
+    border-radius: 50px;
+  }
