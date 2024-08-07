@@ -1,0 +1,35 @@
+.head-logo{
+    width: 165px;
+}
+.nav-item{
+    font-size: 2rem;
+}
+.navbar{
+    padding: 15px;
+}
+.franchise-but{
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    border-radius:  30px;
+    padding: 17px 15px;
+}
+.online-but{
+    background-color: #ff0000;
+    color: #ffffff;
+    border: 0px;
+    border-radius: 30px;
+    padding: 17px 15px;
+    cursor: pointer;
+}
+.arrow-but{
+    background-color: #ffffff;
+    color: #ff0000;
+    padding: 6px;
+    margin: 6px;
+    border-radius: 30px;
+}
+.book-2{
+    margin: 0px 0px 32px ;
+    padding: 32px 0px 40px  ;
+    border: 1px solid #ffffff;
+}
