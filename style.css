@@ -1,0 +1,99 @@
+.head-logo{
+    width: 165px;
+}
+.nav-item{
+    font-size: 2rem;
+}
+.navbar{
+    padding: 15px;
+}
+.franchise-but{
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    border-radius:  30px;
+    padding: 17px 15px;
+}
+.online-but{
+    background-color: #ff0000;
+    color: #ffffff;
+    border: 0px;
+    border-radius: 30px;
+    padding: 17px 15px;
+    cursor: pointer;
+}
+.arrow-but{
+    background-color: #ffffff;
+    color: #ff0000;
+    padding: 6px;
+    margin: 6px;
+    border-radius: 30px;
+}
+
+.corosel-img{
+    width: 100%;
+}
+.express-text1{
+    font-size: 5rem;
+
+}
+.express-text2{
+    font-size: 4rem;
+
+}
+.express-text3{
+    font-size: 1.7rem;
+
+}
+.express-logo1{
+    background-color: #ffffff;
+    border: 0px solid #ffffff;
+    border-radius: 10px;
+}
+.express-logo2{
+    background-color: #ffffff;
+    border: 0px solid #ffffff;
+    border-radius: 10px;
+}
+.express-logo3{
+    background-color: #ffffff;
+    border: 0px solid #ffffff;
+    border-radius: 10px;
+}
+.get-directbut{
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    background-color: var(--green);
+    color: #ffffff;
+    padding: 15px;
+}
+.open-soon{
+    border: opx solid #ffffff;
+}
+.gap-6{
+    gap: 50px;
+}
+.gap-7{
+    gap: 150px;
+}
+.border{
+
+    border: 0px solid #ffffff;
+}
+
+.bg-white{
+    background-color: #ffffff;
+}
+
+.text-black{
+    color: #000000;
+}
+.opensoon-pad{
+    padding: 20px;
+    font-size: 2rem;
+}
+.border-top{
+    border-top: 1px solid #000000;
+}
+.border-rad{
+    border-radius: 10px;
+  }
