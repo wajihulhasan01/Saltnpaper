@@ -117,3 +117,114 @@ form button{
     border: 0;
     border-radius: 50px;
   }
+
+
+  @media (max-width: 1200px) {
+    .head-logo {
+      width: 140px;
+    }
+    .nav-item {
+      font-size: 1.8rem;
+    }
+    .express-text1 {
+      font-size: 4rem;
+    }
+    .express-text2 {
+      font-size: 3.5rem;
+    }
+    .express-text3 {
+      font-size: 1.5rem;
+    }
+    .opensoon-pad {
+      font-size: 1.8rem;
+      padding: 15px;
+    }
+  }
+  
+  @media (max-width: 992px) {
+    .head-logo {
+      width: 120px;
+    }
+    .nav-item {
+      font-size: 1.5rem;
+    }
+    .navbar {
+      padding: 10px;
+    }
+    .franchise-but, .online-but {
+      padding: 12px 10px;
+    }
+    .arrow-but {
+      padding: 5px;
+      margin: 5px;
+    }
+    .express-text1 {
+      font-size: 3rem;
+    }
+    .express-text2 {
+      font-size: 2.5rem;
+    }
+    .express-text3 {
+      font-size: 1.2rem;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .head-logo {
+      width: 100px;
+    }
+    .nav-item {
+      font-size: 1.2rem;
+    }
+    .navbar {
+      padding: 8px;
+    }
+    .express-text1 {
+      font-size: 2.5rem;
+    }
+    .express-text2 {
+      font-size: 2rem;
+    }
+    .express-text3 {
+      font-size: 1rem;
+    }
+    .get-directbut, .franchise-but, .online-but {
+      padding: 10px 8px;
+      font-size: 1rem;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .head-logo {
+      width: 80px;
+    }
+    .nav-item {
+      font-size: 1rem;
+    }
+    .navbar {
+      padding: 5px;
+    }
+    .express-text1 {
+      font-size: 2rem;
+    }
+    .express-text2 {
+      font-size: 1.5rem;
+    }
+    .express-text3 {
+      font-size: 0.9rem;
+    }
+    .get-directbut, .franchise-but, .online-but {
+      padding: 8px 6px;
+      font-size: 0.9rem;
+    }
+    .opensoon-pad {
+      font-size: 1.5rem;
+      padding: 10px;
+    }
+    .gap-6 {
+      gap: 30px;
+    }
+    .gap-7 {
+      gap: 80px;
+    }
+  }
